@@ -1,4 +1,4 @@
-def run_sort(unsorted_list: list[int]) -> list[int]:
+def insertion_sort(unsorted_list: list[int]) -> list[int]:
     # Implement your function here ...
     for i in range(1, len(unsorted_list)):
         j = i-1

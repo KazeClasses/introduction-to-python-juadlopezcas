@@ -1,3 +1,3 @@
 # API Documentations
 
-::: insertion_sort.sort
+::: src.insertion_sort.sort
